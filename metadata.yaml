@@ -1,0 +1,73 @@
+_repo: Conference-of-Officers-in-Charge-of-Government-Hospitals-Serving-Veterans-of-the-World-War_60021
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Burke, Charles H.
+    birthdate: 1861
+    deathdate: 1944
+    gutenberg_agent_id: '50745'
+    url: http://www.gutenberg.org/2009/agents/50745
+    wikipedia: https://en.wikipedia.org/wiki/Charles_H._Burke
+  - agent_name: Sawyer, Charles E. (Charles Elmer)
+    birthdate: 1860
+    deathdate: 1924
+    gutenberg_agent_id: '50735'
+    url: http://www.gutenberg.org/2009/agents/50735
+    wikipedia: https://en.wikipedia.org/wiki/Charles_E._Sawyer
+  - agent_name: Ireland, M. W. (Merritte Weber)
+    alias: Ireland, Merritte Weber
+    birthdate: &id001 1867
+    deathdate: &id002 1952
+    gutenberg_agent_id: '50743'
+    url: http://www.gutenberg.org/2009/agents/50743
+    wikipedia: https://en.wikipedia.org/wiki/Merritte_W._Ireland
+  - agent_name: White, William A. (William Alanson)
+    alias: White, William Alanson
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '50737'
+    url: http://www.gutenberg.org/2009/agents/50737
+    wikipedia: https://en.wikipedia.org/wiki/William_Alanson_White
+  - agent_name: Wood, George H.
+    birthdate: *id001
+    deathdate: 1945
+    gutenberg_agent_id: '50744'
+    url: http://www.gutenberg.org/2009/agents/50744
+  - agent_name: Forbes, Charles R.
+    birthdate: 1878
+    deathdate: *id002
+    gutenberg_agent_id: '50736'
+    url: http://www.gutenberg.org/2009/agents/50736
+    wikipedia: https://en.wikipedia.org/wiki/Charles_R._Forbes
+  - agent_name: Stitt, E. R. (Edward Rhodes)
+    alias: Stitt, Edward Rhodes
+    birthdate: *id001
+    deathdate: &id003 1948
+    gutenberg_agent_id: '50738'
+    url: http://www.gutenberg.org/2009/agents/50738
+  - agent_name: Cumming, Hugh S. (Hugh Smith)
+    alias: Cumming, Hugh Smith
+    birthdate: 1869
+    deathdate: *id003
+    gutenberg_agent_id: '50739'
+    url: http://www.gutenberg.org/2009/agents/50739
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_S._Cumming
+description: '"Held in auditorium, Department of the Interior Washington, D.C. January
+  17-21, 1922, inclusive"'
+gutenberg_issued: '2019-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UH'
+- !lcsh 'Medicine, Military'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Medical care -- United States'
+- !lcsh 'Military hospitals'
+- GITenberg
+title: Conference of Officers in Charge of Government Hospitals Serving Veterans of
+  the World War
+url: http://www.gutenberg.org/ebooks/60021
